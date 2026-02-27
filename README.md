@@ -39,7 +39,7 @@ All required libraries, dependencies, and demo datasets are included in the repo
 ---
 
 ## License
-
+This project is licensed under the MIT License.
 
 ## Related Tools
 - fsTAvis: Python-based Jupyter Notebooks for fs/ns-TA data processing and visualization
