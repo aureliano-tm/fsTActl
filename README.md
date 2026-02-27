@@ -40,7 +40,6 @@ All required libraries, dependencies, and demo datasets are included in the repo
 
 ## License
 
-(Add license information here, if applicable.)
 
 ## Related Tools
 - fsTAvis: Python-based Jupyter Notebooks for fs/ns-TA data processing and visualization
